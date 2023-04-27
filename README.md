@@ -1,2 +1,1 @@
-# nahuel-henry
-este es un repositorio del modulo 2 de prepcourse de Henry
+este pryrcto es una prueba de como crear un repositorio en soy henry
